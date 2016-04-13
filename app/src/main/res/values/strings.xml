@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Example Pray Day Notification</string>
+
+
+    <!-- Input Date here -->
+    <!-- dd/mm/YY  -->
+    <string-array name="date_pray">
+        <item>13/05/2016</item>
+        <item>15/05/2016</item>
+        <item>20/05/2016</item>
+        <item>29/05/2016</item>
+        <item>02/06/2016</item>
+    </string-array>
+
+
+</resources>
